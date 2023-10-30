@@ -1,3 +1,11 @@
+/**
+ * Ini adalah java doc
+ * javadoc dibuat sebagai itulah
+ * ini contoh java doc
+ *
+ *
+ */
+
 import java.util.Scanner;
 
 class Main {
